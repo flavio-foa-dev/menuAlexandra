@@ -1,0 +1,49 @@
+{
+  "Refrigerantes":[
+    {
+      "id": 1,
+      "prato": "Tomate Seco",
+      "descricao": "Tomate, Alho, azeitona, manjericao",
+      "serve_1": 53.90,
+      "serve_2": 96.90,
+      "imgs": ["public/vegano/tomateSeco/seco1.jpg", "public/vegano/tomateSeco/seco2.jpg", "public/vegano/tomateSeco/seco3.jpg"]
+    },
+    {
+      "id": 2,
+      "prato": "Nhoc",
+      "descricao": "Inhame, Grao de bico, Alho, Aveia",
+      "serve_1": 53.90,
+      "serve_2": 96.90,
+      "imgs": ["public/vegano/nhoc/nhoc1.jpg", "public/vegano/nhoc/nhoc2.jpg"]
+
+    }
+  ],
+  "cervejas":[
+    {
+      "id": 1,
+      "prato": "Geleia Zero Acucar",
+      "descricao": "Laranja, Morango",
+      "serve_1": 53.90,
+      "serve_2": 96.90,
+      "imgs": ["public/ligth/geleia/geleia1.jpg", "public/ligth/geleia/geleia2.jpg", "public/ligth/geleia/geleia3.jpg", "public/ligth/geleia/geleia4.jpg"]
+    },
+    {
+      "id": 2,
+      "prato": "Geleia de Pimenta",
+      "descricao": "Maca, Pimenta, Canela, Alho, acucar, Limao",
+      "serve_1": 53.90,
+      "serve_2": 96.90,
+      "imgs": ["public/ligth/geleiaPimenta/geleiaPimenta1.jpg", "public/ligth/geleiaPimenta/geleiaPimenta2.jpg", "public/ligth/geleiaPimenta/geleiaPimenta3.jpg"]
+    }
+  ],
+  "vinhos": [
+    {
+      "id": 3,
+      "prato": "Pao de Arroz",
+      "descricao": "Arroz integral, Oleo de girassol, Sal, Fermento, Acucar demerara,",
+      "serve_1": 53.90,
+      "serve_2": 96.90,
+      "imgs": ["public/paes/paoArroz/pao1.jpg", "public/paes/paoArroz/pao2.jpg", "public/paes/paoArroz/pao3.jpg"]
+    }
+  ]
+}
